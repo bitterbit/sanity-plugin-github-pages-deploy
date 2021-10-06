@@ -16,15 +16,16 @@
   "author": "Gal Tashma <galtashma@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@sanity/ui": "^0.36.12",
     "prop-types": "15.7.2"
   },
   "devDependencies": {
-    "sanipack": "2.0.1",
-    "prettier": "2.4.1",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-config-sanity": "5.1.0",
-    "eslint-plugin-react": "7.26.1"
+    "eslint-plugin-react": "7.26.1",
+    "prettier": "2.4.1",
+    "sanipack": "2.0.1"
   },
   "peerDependencies": {
     "react": "^17.0.0"
